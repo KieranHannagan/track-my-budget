@@ -11,7 +11,6 @@ This app has a `Service Worker` and a `Manifest` that allows it to work and coll
   * [Questions](#questions)
   * [GitHub](#github)
   * [Email](#email)
-  * [Deployement](# View the Deployed application)
   
   ## Installation 
 
