@@ -1,7 +1,7 @@
 # track-my-budget
           
   ## Description
-This application allows the user to keep their finances in check, wherever they are. It has offline functionality and can be downloaded straight to your mobile device. It is a node.js PWA application that uses MongoDB for database handling and Express.js for its servers. 
+This application allows the user to keep their finances in check, wherever they may be. It has offline functionality and can be downloaded straight to your mobile device. It is a node.js PWA application that uses MongoDB for database handling and Express.js for its servers. 
 
 This app has a `Service Worker` and a `Manifest` that allows it to work and collect data without any internet connection (IndexedDB). It does this by caching your data locally then uploading it when it has a connection.
   
